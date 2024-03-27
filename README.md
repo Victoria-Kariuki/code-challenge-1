@@ -25,6 +25,9 @@ git clone https://github.com/Victoria-Kariuki/code-challenge-1/new/main?readme=1
 Github
 Javascript
 
+##Author
+Victoria Kariuki
+
 ##Support and contact details
 github.com/Victoria-Kariuki
 
