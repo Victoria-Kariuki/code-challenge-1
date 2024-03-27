@@ -2,6 +2,9 @@
 #### Date 2024/03/24
 #### By *Victoria Njeri Kariuki
 
+##Project name
+code.challenge
+
 ##Description
 It is a webpage that shows different challenges in a code challenge and how they should look like
 
